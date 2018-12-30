@@ -1,0 +1,9 @@
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\bin\Debug\CyanMapEditor.exe.config
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\bin\Debug\CyanMapEditor.exe
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\bin\Debug\CyanMapEditor.pdb
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\obj\Debug\CyanMapEditor.Imager.resources
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\obj\Debug\CyanMapEditor.MapEditor.resources
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\obj\Debug\CyanMapEditor.Properties.Resources.resources
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\obj\Debug\CyanMapEditor.csproj.GenerateResource.Cache
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\obj\Debug\CyanMapEditor.exe
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\obj\Debug\CyanMapEditor.pdb

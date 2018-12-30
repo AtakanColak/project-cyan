@@ -1,0 +1,10 @@
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\bin\Release\CyanMapEditor.exe.config
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\bin\Release\CyanMapEditor.exe
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\bin\Release\CyanMapEditor.pdb
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\obj\Release\CyanMapEditor.Imager.resources
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\obj\Release\CyanMapEditor.MapEditor.resources
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\obj\Release\CyanMapEditor.Properties.Resources.resources
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\obj\Release\CyanMapEditor.csproj.GenerateResource.Cache
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\obj\Release\CyanMapEditor.exe
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\obj\Release\CyanMapEditor.pdb
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanMapEditor\obj\Release\CyanMapEditor.csprojResolveAssemblyReference.cache

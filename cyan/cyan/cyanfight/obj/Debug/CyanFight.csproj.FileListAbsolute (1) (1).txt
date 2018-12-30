@@ -1,0 +1,13 @@
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\obj\Debug\CyanFight.csprojResolveAssemblyReference.cache
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\obj\Debug\CyanFight.Fight.resources
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\obj\Debug\CyanFight.Properties.Resources.resources
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\obj\Debug\CyanFight.csproj.GenerateResource.Cache
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\bin\Debug\CyanFight.exe.config
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\bin\Debug\CyanFight.exe
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\bin\Debug\CyanFight.pdb
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\bin\Debug\CyanDataTransactions.exe
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\bin\Debug\CyanMapEditor.exe
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\bin\Debug\CyanDataTransactions.pdb
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\bin\Debug\CyanMapEditor.pdb
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\obj\Debug\CyanFight.exe
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\obj\Debug\CyanFight.pdb

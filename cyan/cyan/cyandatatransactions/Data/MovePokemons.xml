@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<MovePokemons>
+  <MovePokemon pokemonid="0" moveid="0" level="1" />
+  <MovePokemon pokemonid="0" moveid="1" level="1" />
+  <MovePokemon pokemonid="1" moveid="2" level="1" />
+  <MovePokemon pokemonid="1" moveid="0" level="1" />
+</MovePokemons>

@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyanMapEditor", "CyanMapEditor\CyanMapEditor.csproj", "{24BF36B3-F39D-4971-B5BC-EF0090CDEA13}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyanDataTransactions", "CyanDataTransactions\CyanDataTransactions.csproj", "{FA7E53E3-DDB0-479E-811E-46FACA659C2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyanFight", "CyanFight\CyanFight.csproj", "{73F834D5-188A-4811-97DD-521E2F3C2092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CyanWorld.Forms", "CyanWorld.Forms\CyanWorld.Forms.csproj", "{8C8B3A69-23EB-450B-B6FB-76C3D11E1C6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24BF36B3-F39D-4971-B5BC-EF0090CDEA13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24BF36B3-F39D-4971-B5BC-EF0090CDEA13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24BF36B3-F39D-4971-B5BC-EF0090CDEA13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24BF36B3-F39D-4971-B5BC-EF0090CDEA13}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA7E53E3-DDB0-479E-811E-46FACA659C2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7E53E3-DDB0-479E-811E-46FACA659C2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7E53E3-DDB0-479E-811E-46FACA659C2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7E53E3-DDB0-479E-811E-46FACA659C2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F834D5-188A-4811-97DD-521E2F3C2092}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F834D5-188A-4811-97DD-521E2F3C2092}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F834D5-188A-4811-97DD-521E2F3C2092}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F834D5-188A-4811-97DD-521E2F3C2092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C8B3A69-23EB-450B-B6FB-76C3D11E1C6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C8B3A69-23EB-450B-B6FB-76C3D11E1C6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C8B3A69-23EB-450B-B6FB-76C3D11E1C6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C8B3A69-23EB-450B-B6FB-76C3D11E1C6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

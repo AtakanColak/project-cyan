@@ -1,0 +1,13 @@
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\bin\Release\CyanFight.exe.config
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\bin\Release\CyanFight.exe
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\bin\Release\CyanFight.pdb
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\bin\Release\CyanDataTransactions.exe
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\bin\Release\CyanMapEditor.exe
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\bin\Release\CyanDataTransactions.pdb
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\bin\Release\CyanMapEditor.pdb
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\obj\Release\CyanFight.csprojResolveAssemblyReference.cache
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\obj\Release\CyanFight.Fight.resources
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\obj\Release\CyanFight.Properties.Resources.resources
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\obj\Release\CyanFight.csproj.GenerateResource.Cache
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\obj\Release\CyanFight.exe
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanFight\obj\Release\CyanFight.pdb

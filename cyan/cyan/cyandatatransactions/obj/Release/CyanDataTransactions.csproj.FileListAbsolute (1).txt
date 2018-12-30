@@ -1,0 +1,12 @@
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanDataTransactions\bin\Release\CyanDataTransactions.exe.config
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanDataTransactions\obj\Release\CyanDataTransactions.csprojResolveAssemblyReference.cache
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanDataTransactions\obj\Release\CyanDataTransactions.DataTransactions.resources
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanDataTransactions\obj\Release\CyanDataTransactions.Properties.Resources.resources
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanDataTransactions\obj\Release\CyanDataTransactions.Table.resources
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanDataTransactions\obj\Release\CyanDataTransactions.csproj.GenerateResource.Cache
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanDataTransactions\bin\Release\CyanDataTransactions.exe
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanDataTransactions\bin\Release\CyanDataTransactions.pdb
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanDataTransactions\bin\Release\CyanMapEditor.exe
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanDataTransactions\bin\Release\CyanMapEditor.pdb
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanDataTransactions\obj\Release\CyanDataTransactions.exe
+C:\Users\Atakan\Documents\Visual Studio 2013\Projects\Cyan\CyanDataTransactions\obj\Release\CyanDataTransactions.pdb

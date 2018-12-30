@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<ExperienceGroups>
+  <ExperienceGroup id="0" name="Normal" />
+  <ExperienceGroup id="1" name="Fast" />
+  <ExperienceGroup id="2" name="Slow" />
+</ExperienceGroups>

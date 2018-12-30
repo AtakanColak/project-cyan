@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<PokemonMoves>
+  <PokemonMove id="0" name="Normal Attack" typeid="0" power="50" accuracy="70" cost="0" />
+  <PokemonMove id="1" name="Fire Punch" typeid="1" power="70" accuracy="50" cost="4" />
+  <PokemonMove id="2" name="Water Geyser" typeid="2" power="90" accuracy="60" cost="7" />
+  <PokemonMove id="3" name="Plantary Moss" typeid="3" power="80" accuracy="75" cost="6" />
+</PokemonMoves>
